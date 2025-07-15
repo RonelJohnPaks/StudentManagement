@@ -1,0 +1,16 @@
+{
+    "name": "benatero/student-management",
+    "description": "Basic Student Management System",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Benatero\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RJ Benatero"
+        }
+    ],
+    "require": {}
+}
